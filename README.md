@@ -8,3 +8,7 @@ An electron-based ToDoList app built in React using the material-ui package. The
 
 - `npm install`
 - `npm run electron`
+
+---
+
+Builds have also been added if you don't want to install. Just choose the correct build for your OS in the build folder.
